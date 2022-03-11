@@ -6,7 +6,7 @@ import { Grid,Typography } from '@material-ui/core';
 export default function TextFields() {
   return (
     <Box
-      sx={{
+      sx={{ 
         display: 'flex',
         alignItems: 'center',
         '& > :not(style)': { m: 1 },

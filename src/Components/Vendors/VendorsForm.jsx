@@ -30,7 +30,7 @@ function VendorsForm() {
         <div class="form-group">
          <label for="uploadsDocuments">Uploads/Documents</label>
          <input type="dropdown"class="form-control"id="uploadsDocuments"placeholder="select documents"/>
-        </div>
+        </div> 
         <div class="form-group">
          <label for="vendorAddress">Vendor Address</label>
          <input type="text"class="form-control"id="vendorAddress"placeholder="Vendor Address"/>

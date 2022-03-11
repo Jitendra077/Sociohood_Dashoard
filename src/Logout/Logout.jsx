@@ -49,7 +49,7 @@ const useStyles = makeStyles((theme) => ({
     text:{
         height: '63px',
         width: '587px',
-        left: '53px',
+        left: '53px', 
         top: '93px',
         borderRadius: null
 

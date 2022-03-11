@@ -2,7 +2,7 @@ import * as React from 'react';
 import { DataGrid } from '@mui/x-data-grid';
 import { Typography,Grid } from '@material-ui/core';
 
-const columns = [
+const columns = [  
 
   { field: 'name', headerName: 'NAME', width: 120 },
   { field: 'email', headerName: 'EMAIL', width: 130 },

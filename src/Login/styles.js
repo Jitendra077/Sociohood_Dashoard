@@ -5,7 +5,7 @@ export default makeStyles(() => ({
   //   toolbar: theme.mixins.toolbar,
   content: {
     backgroundColor: "black",
-    display: "flex",
+    display: "flex", 
     flexDirection: "column",
     justifyContent: "center",
     alignItems: "center",

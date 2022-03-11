@@ -7,7 +7,7 @@ import AddNotice from "./AddNotice"
 const Dashboard = () =>{
   return(
     <React.Fragment>
-        <div style={{marginTop:20}}>
+        <div style={{marginTop:20}}> 
           <Grid container>
             {/* <Grid item sm={1}lg={1}xs={1}></Grid> */}
             <Grid item sm={12}lg={7}xs={12}>

@@ -44,7 +44,7 @@ function VendorModal(){
     const classes = useStyles();
  
    return(
-        <>
+        <> 
        
         <div className={classes.heading}>
             <Grid container>

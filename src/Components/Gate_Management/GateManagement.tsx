@@ -6,4 +6,4 @@ function GateManagement() {
   ) 
 }
 
-export default GateManagement
+export default GateManagement 

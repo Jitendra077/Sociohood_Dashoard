@@ -41,7 +41,7 @@ import SocioLogo from '../assets/SociohoodLogo.png';
             <Grid
               container
               style={{ textAlign: "center", justifyContent: "center" }}
-            >
+            > 
               <Typography className={classes.loginLeftTitle}>
               If you are new to us please sign up with us!
               </Typography>

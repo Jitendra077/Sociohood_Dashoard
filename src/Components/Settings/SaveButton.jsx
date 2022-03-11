@@ -99,7 +99,7 @@ const CustomButtonRoot = styled(ButtonRoot)(
       justify-content: center;
       color: var(--main-color);
       text-transform: uppercase;
-    }
+    } 
 
     & svg {
       margin: 0 5px;

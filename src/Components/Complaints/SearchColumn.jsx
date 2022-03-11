@@ -4,7 +4,7 @@ import Stack from '@mui/material/Stack';
 import Autocomplete from '@mui/material/Autocomplete';
 
 export default function SearchColumn() {
-  return (
+  return ( 
     <Stack spacing={2} sx={{ width: 200 }}>
       <Autocomplete
         id="free-solo-demo"

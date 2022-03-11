@@ -2,7 +2,7 @@ import React from "react";
 import { Button, Paper, Grid, Typography, Box } from "@material-ui/core";
 import loginRightImage from "../assets/SignUp3w.jpg";
 import loginLeftImage from "../assets/SignUp3b.jpg";
-import { FacebookLoginButton } from "react-social-login-buttons";
+import { FacebookLoginButton } from "react-social-login-buttons"; 
 import { GoogleLoginButton } from "react-social-login-buttons";
 import { Checkbox, Divider, IconButton,CardMedia } from "@mui/material";
 import { Close, Email, Visibility, VisibilityOff } from "@material-ui/icons";

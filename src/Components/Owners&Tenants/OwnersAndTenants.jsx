@@ -4,6 +4,6 @@ function OwnersAndTenants() {
   return (
     <div>OwnersAndTenants</div>
   )
-}
+} 
 
 export default OwnersAndTenants 

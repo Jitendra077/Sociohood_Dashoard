@@ -48,7 +48,7 @@ function Complaints() {
   
   return (
     <>
-    <div>
+    <div> 
       <div class='card  m-2'style={{marginTop:120}}>
         <div class='card-body'>
           <div className='root'>

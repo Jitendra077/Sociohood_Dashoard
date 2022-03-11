@@ -1,6 +1,6 @@
 import {makeStyles,AppBar,Toolbar,Typography,Badge,image, Grid} from "@material-ui/core";
 // import {createTheme} from '@material-ui/core/styles';
-import SearchIcon from '@mui/icons-material/Search';
+import SearchIcon from '@mui/icons-material/Search'; 
 import InputBase from '@mui/material/InputBase';
 import { styled, alpha } from '@mui/material/styles';
 import NotificationsIcon from '@mui/icons-material/Notifications';

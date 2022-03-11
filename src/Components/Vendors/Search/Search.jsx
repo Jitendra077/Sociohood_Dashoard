@@ -4,7 +4,7 @@ import SearchIcon from '@mui/icons-material/Search';
 import { Grid } from '@material-ui/core';
 
 export default function Search() {
-
+ 
   return (
      <Grid container>
         <Grid item sm={1} lg={1}xs={1}></Grid>

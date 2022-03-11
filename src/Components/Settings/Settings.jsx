@@ -6,7 +6,7 @@ import CustomInputField from "./CustomInput"
 import ControlledCheckbox from "./CheckboxSelection"
 import SaveButton from "./SaveButton"
 
-function Settings() {
+function Settings() { 
   return (
     <React.Fragment class="py-4">
       <div class='card'>

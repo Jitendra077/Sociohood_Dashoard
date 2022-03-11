@@ -5,7 +5,7 @@ export default function ControlledCheckbox() {
   const [checked, setChecked] = React.useState(true);
 
   const handleChange = (event) => {
-    setChecked(event.target.checked);
+    setChecked(event.target.checked); 
   };
 
   return (

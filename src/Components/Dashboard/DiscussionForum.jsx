@@ -126,7 +126,7 @@ export default function DiscussionForum() {
       <Divider variant="inset" component="li" />
       <Divider variant="inset" component="li" />
       <ListItem alignItems="flex-start">
-        <ListItemAvatar>
+        <ListItemAvatar> 
           <Avatar alt="Cindy Baker" src={Image3} />
         </ListItemAvatar>
         <ListItemText
