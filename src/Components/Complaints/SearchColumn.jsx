@@ -12,7 +12,7 @@ export default function SearchColumn() {
         options={top100Films.map((option) => option.title)}
         renderInput={(params) => <TextField {...params} label="freeSolo" />}
       />
-    </Stack>
+    </Stack> 
   );
 }
 

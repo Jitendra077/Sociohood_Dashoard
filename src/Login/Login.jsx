@@ -46,7 +46,7 @@ import SocioLogo from '../assets/SociohoodLogo.png';
               If you are new to us please sign up with us!
               </Typography>
             </Grid>
-            <button
+            <button 
             className={classes.signInButton}
               >
               SIGN UP

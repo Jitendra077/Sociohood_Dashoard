@@ -13,7 +13,7 @@ const styles = (theme) => ({
     alignItems: 'center',
     boxSizing: 'border-box',
   },
-  table: {
+  table: { 
     // temporary right-to-left patch, waiting for
     // https://github.com/bvaughn/react-virtualized/issues/454
     '& .ReactVirtualized__Table__headerRow': {

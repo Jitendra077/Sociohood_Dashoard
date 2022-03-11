@@ -53,7 +53,7 @@ function VendorModal(){
                     <button style={{padding:12,margin:15,backgroundColor:'skyblue',border:'none'}} onClick={setModalIsOpenToTrue}>Add Notice</button>
                 </Grid>
             </Grid>  
-         </div>
+         </div> 
                 
              <Modal isOpen={modalIsOpen} className={classes.modal}>
               <div className='card'>

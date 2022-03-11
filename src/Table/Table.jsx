@@ -11,7 +11,7 @@ const columns = [
     type: 'text',
     width: 120,
   },
-  {
+  { 
     field: 'sector',
     headerName: 'Sector',
     sortable: false,

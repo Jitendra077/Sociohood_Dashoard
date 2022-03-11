@@ -139,7 +139,7 @@ export default function DiscussionForum() {
                 variant="body2"
                 color="text.primary"
               >
-                Sandra Adams
+                Sandra Adams 
               </Typography>
               {' — Do you have Paris recommendations? Have you ever…'}
             </React.Fragment>

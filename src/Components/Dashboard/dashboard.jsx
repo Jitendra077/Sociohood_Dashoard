@@ -21,7 +21,7 @@ const Dashboard = () =>{
                   
                 
               </div>
-            </div>
+            </div> 
             </Grid>
             <Grid item sm={1}lg={1}xs={1}></Grid>
             <Grid item sm={12}lg={4}xs={12}>

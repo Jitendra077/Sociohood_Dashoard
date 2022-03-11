@@ -16,7 +16,7 @@ function Settings() {
         <Grid item xs={4}sm={4}lg={4}>
           <Typography>
             <h4>Settings</h4>
-          </Typography>
+          </Typography> 
         </Grid>
         <Grid item xs={4}sm={4}lg={4}></Grid>
       </Grid>

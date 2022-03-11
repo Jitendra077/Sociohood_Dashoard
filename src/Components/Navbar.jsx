@@ -15,11 +15,11 @@ const Navbar = () => {
         <AppBar position="fixed">
           <Toolbar >
               <Grid container>
-                <Grid item xs={2}sm={2}lg={2}>
+                <Grid item xs={2}sm={2}lg={2}> 
                     <Typography>
                     <img src={SociohoodLogo} alt="SociohoodLogo"style={{width:80}} />
                     </Typography>
-                </Grid>
+                </Grid> 
                 <Grid item xs={2}sm={2}lg={2}>
                     <Typography>
                          Good Evening,Admin

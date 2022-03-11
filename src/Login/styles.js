@@ -10,7 +10,7 @@ export default makeStyles(() => ({
     justifyContent: "center",
     alignItems: "center",
   },
-  SocioLogo:{
+  SocioLogo:{ 
     Width:830,
     Height:1321,
     Top:10,

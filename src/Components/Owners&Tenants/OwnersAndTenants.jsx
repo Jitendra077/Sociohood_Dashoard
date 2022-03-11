@@ -6,4 +6,4 @@ function OwnersAndTenants() {
   )
 }
 
-export default OwnersAndTenants
+export default OwnersAndTenants 

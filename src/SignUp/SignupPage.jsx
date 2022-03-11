@@ -12,7 +12,7 @@ import SocioLogo from '../assets/SociohoodLogo.png';
 
   const Login=()=>{
     const classes = useStyles();
-      return(
+      return( 
           <div>
                <Grid padded style={{ height: "100vh" }} container>
           {/* LOGIN LEFT CONTAINER */}

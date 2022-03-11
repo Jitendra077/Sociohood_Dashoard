@@ -230,8 +230,8 @@ function ResponsiveDrawer(props) {
             edge="start"
             onClick={handleDrawerToggle}
             sx={{ mr: 2,border:'none'}}
-          >
-            <MenuIcon />
+          > 
+            <MenuIcon /> 
           </IconButton>
           
         </Toolbar>

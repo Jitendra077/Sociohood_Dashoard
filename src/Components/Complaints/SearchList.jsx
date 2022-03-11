@@ -11,7 +11,7 @@ const filterOptions = createFilterOptions({
 });
 
 export default function SearchListFilter() {
-  return (
+  return ( 
     <Autocomplete
       id="filter-demo"
       options={top100Films}

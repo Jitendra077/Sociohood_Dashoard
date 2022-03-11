@@ -46,7 +46,7 @@ function App() {
       <Grid container className={classes.container}>
         <Grid item sm={2} xs={2}>
             <DrawerComponent/>
-        </Grid>
+        </Grid> 
         <Grid item sm={10}lg={10}xs={10}></Grid>
           <Grid item sm={1}xs={1}lg={1}></Grid>
           <Grid item sm={10} xs={10} lg={10}>

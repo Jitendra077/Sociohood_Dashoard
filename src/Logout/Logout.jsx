@@ -56,7 +56,7 @@ const useStyles = makeStyles((theme) => ({
     }
 }));
 
-function Logout(){
+function Logout(){ 
     const classes = useStyles()
     return(
         <>

@@ -12,7 +12,7 @@ const useStyles = makeStyles((theme) => ({
         //     justifyContent:'space-between',
         //     background:'green'
         // }
-            // [theme.breakpoints.up('sm')]:{
+            // [theme.breakpoints.up('sm')]:{ 
             //     display:'flex',
             //     justifyContent:'space-between'
             // },

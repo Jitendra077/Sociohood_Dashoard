@@ -6,4 +6,4 @@ function Accounts() {
   )
 }
 
-export default Accounts
+export default Accounts 

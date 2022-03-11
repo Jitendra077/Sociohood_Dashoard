@@ -8,7 +8,7 @@ import { styled } from '@mui/system';
 const blue = {
   100: '#DAECFF',
   200: '#99CCF3',
-  400: '#3399FF',
+  400: '#3399FF', 
   500: '#007FFF',
   600: '#0072E5',
   900: '#003A75',

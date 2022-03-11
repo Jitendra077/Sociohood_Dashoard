@@ -58,7 +58,7 @@ function Complaints() {
           <SearchListFilter/>
           <button class='btn btn-primary'>Add new</button>
           </div>
-        </div>
+        </div> 
       </div>
       </div>
       <div class='card m-2'>
